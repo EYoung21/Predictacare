@@ -30,4 +30,4 @@ Eli Young
 Tony Stanell
 
 ## License
-PredictaCare is licensed under the MIT License. Feel free to use, modify, and distribute the codebase as per the terms of the license.
+PredictaCare is licensed under the GNU License.
